@@ -1,0 +1,104 @@
+{
+    "bio": {
+        "name": "Shriram Khandbahale",
+        "age": 17,
+        "gender": "male",
+        "nationality": "Indian",
+        "title": "programmer",
+        "hobbies": [
+            "video editing",
+            "music (Pakhavaj)",
+            "3D-Rendering/animation",
+            "designing",
+            "solving puzzles",
+            "reading"
+        ]
+    },
+    "skills": [
+        "Next.js",
+        "React.js",
+        "Javascript",
+        "Linux",
+        "Python",
+        "Bash",
+        "SQL",
+        "Firebase",
+        "C/C++",
+        "HTML/CSS",
+        "Sass",
+        "Git/Github",
+        "Figma"
+    ],
+    "specialty": {
+        "frontend": [
+            "React.js"
+        ],
+        "designing": [
+            "Figma"
+        ]
+    },
+    "education": {
+        "Diploma": {
+            "college": "NDMVPS's RSM Polytechnic Nashik",
+            "course": "Computer Science",
+            "duration": "2021 - 2024"
+        }
+    },
+    "projects": {
+        "core": {
+            "Desk-Native": {
+                "description": "Web tech tool to build Native Desktop Apps.",
+                "link": "https://github.com/TheSudoersClub/Desk-Native",
+                "stack": [
+                    "Node.js",
+                    "express.js"
+                ]
+            },
+            "IncognitoTalk": {
+                "description": "Anonymous chat rooms",
+                "link": "https://github.com/TheSudoersClub/IncognitoTalk",
+                "stack": [
+                    "Node.js",
+                    "express.js",
+                    "HTML/CSS/JS"
+                ]
+            },
+            "MasterKey": {
+                "description": "CLI password Manager",
+                "link": "https://thesudoersclub.github.io/projects/masterkey",
+                "stack": [
+                    "C",
+                    "bash",
+                    "python"
+                ]
+            }
+        },
+        "mini-projects": {
+            "TimeLineup": {
+                "description": "Time Table manager",
+                "link": "https://github.com/TheSudoersClub/TimeLineup",
+                "stack": [
+                    "HTML",
+                    "CSS",
+                    "Javascript"
+                ]
+            },
+            "Randomizer": {
+                "description": "Spin Wheel / Toss",
+                "link": "https://github.com/TheSudoersClub/Randomizer",
+                "stack": [
+                    "HTML",
+                    "CSS",
+                    "Javascript"
+                ]
+            }
+        }
+    },
+    "socials": {
+        "website": "`${window.location.url}`",
+        "Linkedin": "https://linkedin.com/in/shriram-khandbahale-b92a21270/",
+        "Github": "https://github.com/ShriramKhandbahale",
+        "Blog": "https://medium.com/@shriramkhandbahale",
+        "Email": "shriramskhandbahale@gmail.com"
+    }
+}

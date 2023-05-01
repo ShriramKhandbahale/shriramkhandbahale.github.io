@@ -1,0 +1,34 @@
+@use 'util' as *;
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400,700&display=swap');
+
+
+#root {
+  .root__note {
+    span {
+      color: $fg-clr;
+      font-family: monospace;
+    }
+  }
+
+  #note {
+    font-weight: 700;
+    color: $txt-clr;
+  }
+}
+
+.contact-form {
+  font-family: 'Courier Prime', monospace, sans-serif;
+  color: $txt-clr;
+
+  &__title {
+    font-weight: 700;
+  }
+
+  &__code {
+    &__line {
+      font-size: 1rem;
+      color: rgb(201, 201, 201);
+      line-height: 1.5;
+    }
+  }
+}
