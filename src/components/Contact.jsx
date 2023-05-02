@@ -36,7 +36,7 @@ export default function Contact(props) {
             </div>
 
             <div class="contact-form__code__message-field" id="message-box">
-              <label for="message">message</label>: "<textarea  required id="message" name="entry.2061966040" ></textarea>"
+              <label for="message">message</label>: "<textarea rows="1" cols="12" required id="message" name="entry.2061966040"></textarea>"
             </div>
 
           </div>

@@ -46,14 +46,6 @@
     },
     "projects": {
         "core": {
-            "Desk-Native": {
-                "description": "Web tech tool to build Native Desktop Apps.",
-                "link": "https://github.com/TheSudoersClub/Desk-Native",
-                "stack": [
-                    "Node.js",
-                    "express.js"
-                ]
-            },
             "IncognitoTalk": {
                 "description": "Anonymous chat rooms",
                 "link": "https://github.com/TheSudoersClub/IncognitoTalk",

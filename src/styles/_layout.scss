@@ -2,7 +2,7 @@
 
 #root {
     .root__note {
-        margin-left: 1rem;
+        margin-inline: 1rem;
         margin-top: 1rem;
     }
 }
@@ -20,15 +20,19 @@
         outline: none;
         background: $sec-clr;
         border-radius: 5px;
-        height: 1.5rem;
-        width: 8rem;
         margin-block: 5px;
         color: $txt-clr;
         caret-color: aqua;
     }
 
+    input {
+        height: 1.5rem;
+        width: 8rem;
+    }
+
     textarea {
-        padding-block: 5px
+        padding-block: 5px;
+        resize: both;
     }
 
     button {
@@ -38,6 +42,12 @@
         padding: 0.5rem 0.8rem;
         border-radius: 5px;
         margin-top: 1rem;
+        transition: 0.3s ease;
+
+        &:hover {
+            cursor: pointer;
+            background: $sec-clr-hov;
+        }
     }
 
     &__code {

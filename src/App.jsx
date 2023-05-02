@@ -65,7 +65,7 @@ const App = () => {
   return (
     <div id='root'>
       <div className="root__note">
-        <span><span id='note'>Note: </span>This is a placeholder. I am working on the website, but this looks cool too, doesn't it?"</span>
+        <span><span id='note'>Note: </span>This is a placeholder. I am working on the website, but this looks cool too, doesn't it?!"</span>
       </div>
       <div className='root__code'>
         <SyntaxHighlighter language='json' style={syntaxStyle}>
