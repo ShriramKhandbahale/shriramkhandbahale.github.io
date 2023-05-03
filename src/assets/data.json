@@ -63,6 +63,13 @@
                     "bash",
                     "python"
                 ]
+            },
+            "LocalServer": {
+                "description": "Media Sharing and hosting",
+                "link": "https://github.com/TheSudoersClub/LocalServer",
+                "stack": [
+                    "bash"
+                ]
             }
         },
         "mini-projects": {
@@ -87,7 +94,7 @@
         }
     },
     "socials": {
-        "website": "`${window.location.url}`",
+        "website": "`${window.location.href}`",
         "Linkedin": "https://linkedin.com/in/shriram-khandbahale-b92a21270/",
         "Github": "https://github.com/ShriramKhandbahale",
         "Blog": "https://medium.com/@shriramkhandbahale",
